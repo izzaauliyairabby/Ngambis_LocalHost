@@ -1,5 +1,9 @@
 
-# izza_auliyai_rabby_s_application3
+# Ngambis
+## Izza Auliyai Rabby
+## Maudy Pramesti Dewi
+## Fehru Mandala Putra
+## Harris
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
