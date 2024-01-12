@@ -1,4 +1,8 @@
-
+# Hackfest 2024 LocalHost Team
+## Izza Auliyai Rabby
+## Maudy Pramesti Dewi
+## Fehru Mandala Putra
+## Harris
 # izza_auliyai_rabby_s_application3
 ### Table of contents
 - [System requirements](#system-requirements)
